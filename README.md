@@ -101,9 +101,13 @@ design then expands toward creator-configured odds, contracts, additional
 random devices, combat, reality-bending artifacts, themes, and eventually
 two-player creator/explorer modes.
 
-See [the living game design document](docs/UNSTABLE%20DEPTHS%20-%20Game%20Design%20Document.md)
-for the full vision, decisions, and milestone plan. It records the current
-design direction and is expected to change as the prototype is playtested.
+Project design is split into three living documents:
+
+- [GDD](docs/GDD.md): the current game and immediate design target.
+- [Roadmap](docs/ROADMAP.md): planned and exploratory future work.
+- [Design log](docs/DESIGN_LOG.md): decisions and playtest-driven changes.
+- [Full original GDD](docs/UNSTABLE%20DEPTHS%20-%20Game%20Design%20Document.md):
+  the complete, detailed design reference.
 
 ## Status
 

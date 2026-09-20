@@ -1,5 +1,11 @@
 # UNSTABLE DEPTHS — Game Design Document
 
+> **Living document · Version 0.5 · Last updated September 2026**
+>
+> This document describes the intended game direction, not a locked promise.
+> Mechanics, balance values, scope, and milestones change through prototyping
+> and playtesting. The playable implementation may cover only a subset of it.
+
 **Working title:** Unstable Depths (placeholder)
 **Version:** 0.5 (playtest 1 rebalance of Reality Integrity, anchor pity rule, playtest log. v0.4 was v0.3 plus: Blockworld theme cut, combat reading and danger-rating hiding confirmed. v0.3 added decisions: fixed threshold ratio, room-count config, unseal notification, RI-first bend prices, timing-based bend triggers, turn-based combat direction, first themes, Bettor removed, hot-seat first, AI Host hooks)
 **Platform:** Terminal (text-based, keyboard only)

@@ -101,8 +101,9 @@ design then expands toward creator-configured odds, contracts, additional
 random devices, combat, reality-bending artifacts, themes, and eventually
 two-player creator/explorer modes.
 
-See [the game design document](UNSTABLE%20DEPTHS%20-%20Game%20Design%20Document.md)
-for the full vision, decisions, and milestone plan.
+See [the living game design document](docs/UNSTABLE%20DEPTHS%20-%20Game%20Design%20Document.md)
+for the full vision, decisions, and milestone plan. It records the current
+design direction and is expected to change as the prototype is playtested.
 
 ## Status
 
